@@ -72,7 +72,7 @@ dependencies {
 
     console "org.grails:grails-console"
 
-    runtime 'org.grails.plugins:clojure:2.0.0-SNAPSHOT'
+    runtime 'org.grails.plugins:clojure:2.0.0.M1'
 }
 
 task wrapper(type: Wrapper) {
