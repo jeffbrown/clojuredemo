@@ -58,7 +58,7 @@ dependencies {
     testRuntime "org.seleniumhq.selenium:selenium-htmlunit-driver:2.47.1"
     testRuntime "net.sourceforge.htmlunit:htmlunit:2.18"
 
-    runtime 'org.grails.plugins:clojure:2.0.0.M1'
+    runtime 'org.grails.plugins:clojure:2.0.0.RC2'
 }
 
 assets {

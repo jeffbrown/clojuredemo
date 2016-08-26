@@ -1,4 +1,9 @@
 ---
+grails:
+    clojure:
+        namespaceBeans:
+            math: mathHelper
+---
 hibernate:
     cache:
         queries: false
