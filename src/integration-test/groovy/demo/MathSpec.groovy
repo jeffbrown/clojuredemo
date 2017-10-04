@@ -3,7 +3,7 @@ package demo
 import demo.pages.AddNumbersPage
 import demo.pages.ResultPage
 import geb.spock.GebSpec
-import grails.test.mixin.integration.Integration
+import grails.testing.mixin.integration.Integration
 
 @Integration
 class MathSpec extends GebSpec {
